@@ -1,0 +1,3 @@
+#toolbar-menu a[label="happiness"]:before {
+    content: url(images/smiley-black.png);
+}
