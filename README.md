@@ -33,9 +33,9 @@ the new folder.
 STILL TO DO
 ------------
 While the bare bones of this plugin are working there are a few elements that 
-either need adding of fixing.
+either need adding or fixing.
 
-- Dropdown doesnt work in the Elastic Skin
+- Dropdown doesn't work in the Elastic Skin
 - The button image doesn't show in the Classic Skin
 - Localisaition needs adding
 
